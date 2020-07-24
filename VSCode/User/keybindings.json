@@ -279,5 +279,17 @@
     {
         "key": "cmd+k cmd+u",
         "command": "editor.action.transformToUppercase"
+    },
+    {
+        "key": "shift+cmd+w",
+        "command": "-workbench.action.closeWindow"
+    },
+    {
+        "key": "shift+cmd+w",
+        "command": "workbench.action.closeUnmodifiedEditors"
+    },
+    {
+        "key": "cmd+k u",
+        "command": "-workbench.action.closeUnmodifiedEditors"
     }
 ]

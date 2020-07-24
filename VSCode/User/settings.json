@@ -151,6 +151,6 @@
   "editor.suggest.maxVisibleSuggestions": 15,
   "python.languageServer": "Microsoft",
   "python.showStartPage": false,
-  "csharp.semanticHighlighting.enabled": true,
   "csharp.suppressHiddenDiagnostics": false,
+  "csharp.semanticHighlighting.enabled": true,
 }
